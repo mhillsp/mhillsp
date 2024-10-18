@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Mikayla
 - 👀 I’m interested in frontend development, UX and UI design
-- 🌱 I’m currently learning GatsbyJS
 - 📫 How to reach me: mpreete94@gmail.com
 
 <!---
